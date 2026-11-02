@@ -33,4 +33,7 @@ The MVP will contain
 Python
 - Flask
 - Ollama
-- .csv database 
+- .csv database
+HTML
+CSS
+Javascript 
