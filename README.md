@@ -16,7 +16,21 @@ CSS: Styles the interface to make the application clear, simple, and easy to nav
 
 JavaScript: Handles frontend interactions, communicates with the backend, and displays generated notes and practice questions dynamically.
 
-#future plans 
+The MVP will contain 
+- File upload feature
+- AI Chat feature
+- AI File selection
+- AI quizz maker
+- AI lecture summariser
+- AI study plan generator
 
+#future plans 
+- Personal live tutoring 
+- Social place to find others at your level 
+- duolingo for courses 
 
 #tech stack
+Python
+- Flask
+- Ollama
+- .csv database 
