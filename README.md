@@ -27,7 +27,8 @@ The MVP will contain
 # future plans 
 - Personal live tutoring 
 - Social place to find others at your level 
-- duolingo for courses 
+- duolingo for courses
+- Long term Chat store 
 
 # tech stack
 Python
