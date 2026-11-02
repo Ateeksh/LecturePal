@@ -1,4 +1,4 @@
-## 1. Must Do — Important and Urgent (MVP)
+## 1. Must Do 
 
 - **File Upload Feature:** Allow users to upload lecture notes and study materials for processing.
 - **AI Chat Feature:** Allow users to ask questions about their lecture materials and receive AI-generated answers.
@@ -9,7 +9,7 @@
 - **Backend Connection:** Connect the HTML, CSS, and JavaScript frontend to the Python Flask backend and implement the necessary routes.
 - **Basic Webpages:** Create a simple home page, file upload page, and study resources page to support the main features.
 
-## 2. Should Do — Important but Not Urgent (Version 2.0 and Beyond)
+## 2. Should Do 
 
 - **User Account Management:** Allow users to update their account details, change passwords, and delete their accounts.
 - **Study Progress Tracking:** Track completed quizzes, study sessions, and learning progress over time.
@@ -17,15 +17,14 @@
 - **Advanced Study Plan Customization:** Allow users to customize their study schedules based on deadlines, available study time, and personal preferences.
 - **Advanced Web Interface:** Improve the website's appearance and responsiveness with additional styling, animations, and interface enhancements.
 
-## 3. Could Delegate — Not Important but Urgent (Use Existing Libraries or Tools)
-
+## 3. Could Delegate 
 - **Document Text Extraction:** Use existing Python libraries, such as PyMuPDF for PDFs and `python-docx` for Word documents, instead of building a document parser from scratch.
 - **AI Model Integration:** Use the Ollama Python library or its API to communicate with locally running AI models rather than implementing an AI inference system from scratch.
 - **Frontend Styling Components:** Use existing CSS frameworks or reusable components to create consistent forms, buttons, navigation bars, and layouts.
 - **File Validation:** Use Flask and Python utilities to validate file extensions, file sizes, and upload requirements instead of implementing every validation mechanism manually.
 - **Basic Interface Interactions:** Use standard JavaScript features and reusable functions to handle form submissions, loading indicators, and the display of generated results.
 
-## 4. Won't Do — Not Important and Not Urgent (Exclude from Initial Scope)
+## 4. Won't Do
 
 - **Social Media Integration:** Allow users to share their study materials or quiz results directly on social media platforms.
 - **Gamification and Leaderboards:** Add competitive rankings, badges, achievements, and points to encourage studying.
