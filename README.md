@@ -1,9 +1,9 @@
 # LecturePal
 
-#project goal
+# project goal
 I want to solve this problem by creating an AI-powered lecture helper that organizes learning materials in one place and uses AI  to make studying easier and more effective. I will develop an AI Lecture Helper web application. Users will be able to upload and organize lecture recordings, notes, past papers, answers, and syllabus documents, then use AI to generate revision notes, study guides, summaries, and practice questions based on their uploaded materials.
 
-#MVP scope
+# MVP scope
 I will use Python for the backend and HTML, CSS, and JavaScript for the frontend. I will also use existing Python libraries and an AI API to process uploaded lecture materials and generate study resources.
 
 Python: Handles the backend logic, file uploads, document processing, data storage, and communication with the AI model.
@@ -24,12 +24,12 @@ The MVP will contain
 - AI lecture summariser
 - AI study plan generator
 
-#future plans 
+# future plans 
 - Personal live tutoring 
 - Social place to find others at your level 
 - duolingo for courses 
 
-#tech stack
+# tech stack
 Python
 - Flask
 - Ollama
